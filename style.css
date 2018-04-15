@@ -22,16 +22,16 @@ header{
 .nav{
     background: #ebebeb;
     padding: 20px;
-    margin-bottom: 12px;
+    margin-bottom: 15px;
 }
 
 .section{
     position: relative;
     background: #ebebeb;
     width: 495px;
-    height: 290px;
+    height: 300px;
     padding: 30px;
-    margin-bottom: 12px;
+    margin-bottom: 15px;
     margin-right: 20px;
     margin-left: 0px;
     float: left;
@@ -40,7 +40,7 @@ header{
 .aside{
     background: #ebebeb;
     width: 445px;
-    height: 290px;
+    height: 300px;
     float: left;
     padding: 30px;
 }
@@ -52,7 +52,10 @@ article{
     right: 10px;
     color: #ebebeb;
     background: #777;
-    padding: 10px;
+    padding-top: 20px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 h1{
