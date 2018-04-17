@@ -37,14 +37,6 @@ header{
     float: left;
 }
 
-.aside{
-    background: #ebebeb;
-    width: 445px;
-    height: 300px;
-    float: left;
-    padding: 30px;
-}
-
 article{
     position: absolute;
     bottom: 10px;
@@ -72,6 +64,14 @@ p{
     padding: 20px;
     margin-bottom: 5px;
     margin-top: 0px;
+}
+
+.aside{
+    background: #ebebeb;
+    width: 445px;
+    height: 300px;
+    float: left;
+    padding: 30px;
 }
 
 footer{
